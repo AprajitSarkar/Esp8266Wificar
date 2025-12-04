@@ -1,0 +1,10 @@
+Gerber job file
+Generated: Placeholder Gerber set for ESP8266 4WD PCB
+Files included:
+ - top copper: GTL
+ - bottom copper: GBL
+ - top silkscreen: GTO
+ - top soldermask: GTS
+ - bottom soldermask: GBS
+ - board outline (GKO)
+ - drill file (DRL)

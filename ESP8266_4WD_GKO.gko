@@ -1,0 +1,20 @@
+%FSLAX24Y24*%
+%MOIN*%
+%OFA0B0*%
+%IPPOS*%
+%LPD*%
+G04 Placeholder Gerber file - verify in gerber viewer *
+%ADD10C,0.010*%
+G54D10*
+G01*
+%LPD*%
+G75*
+G90*
+G70*
+G04 Board outline rectangle 3.1496in x 2.3622in *
+X-1.5748Y-1.1811D02*
+X+1.5748Y-1.1811D01*
+X+1.5748Y+1.1811D01*
+X-1.5748Y+1.1811D01*
+X-1.5748Y-1.1811D01*
+M02*
